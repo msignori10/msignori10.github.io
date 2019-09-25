@@ -43,6 +43,21 @@ h1{
   margin-bottom: 0;
 }
 
+h2{
+  color: white;
+  padding:5px;
+  background-color:#33485e;
+  text-align:left;
+}
+
+h4,h5{
+  font-weight: 400;
+}
+
+h5{
+  font-style: italic;
+}
+
 .nav-links{
   max-width: 400px;
   margin: 0 auto 30px;
@@ -82,12 +97,9 @@ span.highlight {
   color: white;
   font-weight: bold;
 }
-
-h2{
-  color: white;
-  padding:5px;
-  background-color:#33485e;
-  text-align:left;
+.container-experience h2, .container-experience h3, .container-experience h4,.container-experience h5{
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .h_line{
@@ -123,10 +135,7 @@ h5{
   font-style: italic;
   font-weight: normal;
 }
-.container-experience h1,h2,h3,h4,h5{
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
+
 .container-experience h5{
   font-style: italic;
 }
