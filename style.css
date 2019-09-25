@@ -44,8 +44,18 @@ h1{
 }
 
 .nav-links{
-  display: inline-block;
   max-width: 400px;
+  margin: 0 auto;
+  padding-left: 0;
+}
+
+.nav-links li{
+  display: inline block;
+}
+
+.nav-links > li: not(:last-child)::after{
+  content: "|"
+  margin: 0.5em;
 }
 
 p.highlight-this{
@@ -56,16 +66,7 @@ p.highlight-this{
 .h_line{
   width: 80%;
 }
-.nav{
-  padding: 0;
-  margin:0;
-  text-align: center;
-  list-style: none;
-}
-.nav li{
-  display: inline;
-  content: "|"
-}
+
 .nav a{
   display: inline-block;
   padding:8px;
