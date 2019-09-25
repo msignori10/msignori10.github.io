@@ -8,6 +8,8 @@ h1 {
   color: #33485E
 (51,72,94);
   font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 0.8em;
 }
 body {
   max-width: 800px;
@@ -22,4 +24,26 @@ font-family: 'Varela Round', sans-serif;
 .center-top-content{
   text-align: center;
   border-bottom: 2px;
+  color: #33485E
+  text-transform:uppercase;
+  border-bottom: 2px;
+  color: black;
+}
+p.highlight-this{
+  word-wrap: normal;
+  font-size: 20px;
+}
+.nav{
+  padding: 0;
+  margin:0;
+  text-align: center;
+  list-style: none;
+}
+.nav li{
+  display: inline;
+  content: "|"
+}
+.nav a{
+  display: inline-block;
+  padding:10px;
 }
