@@ -21,6 +21,13 @@ body{
   color: black;
 }
 
+.personal-title{
+  font-weight: bold;
+  text-align: center;
+  color: grey;
+  font-style: italic;
+}
+
 h1{
   color: #33485E
 (51,72,94);
@@ -59,11 +66,6 @@ h5,
 .nav a{
   display: inline-block;
   padding:8px;
-}
-.personal title{
-  text-align: center;
-  font-style: italic;
-  color: grey
 }
 .main-content{
   width: 80%;
