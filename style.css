@@ -45,5 +45,68 @@ p.highlight-this{
 }
 .nav a{
   display: inline-block;
-  padding:10px;
+  padding:8px;
 }
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Varela Round', sans-serif;
+  text-align: left;
+}
+.h_line{
+  width: 80%;
+}
+.personal title{
+  text-align: center;
+  font-style: italic;
+  color: grey
+}
+.main-content{
+  width: 80%;
+  text-align: center;
+}
+img{
+  float: right;
+  max-width: 33%;
+}
+.intro{
+  line-height: 3.0%;
+}
+.highlight-this{
+  background-color: #33485e
+  padding-bottom: 3px;
+  padding-top:3px;
+  padding-left: 5px;
+}
+h2{
+  color: white;
+  padding:5px;
+  background-color:#33485e;
+  text-align:left;
+}
+h3{
+  font-weight: normal;
+}
+h4{
+  font-weight: normal;
+}
+h5{
+  font-style: italic;
+  font-weight: normal;
+}
+.container-experience h1,h2,h3,h4,h5{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.container-experience h5{
+  font-style: italic;
+}
+.container-experience p{
+  font-size: 14px;
+}
+</body>
+</html>
