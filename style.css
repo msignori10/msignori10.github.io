@@ -105,30 +105,8 @@ span.highlight {
 .container-experience p{
   font-size: 14px;
 }
-
-.highlight-this{
-  background-color: #33485e
-  padding-bottom: 3px;
-  padding-top:3px;
-  padding-left: 5px;
-}
-
-h3{
-  font-weight: normal;
-}
-h4{
-  font-weight: normal;
-}
-h5{
+.italics {
   font-style: italic;
-  font-weight: normal;
-}
-
-.container-experience h5{
-  font-style: italic;
-}
-.container-experience p{
-  font-size: 14px;
 }
 </body>
 </html>
