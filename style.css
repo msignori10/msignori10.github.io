@@ -5,14 +5,14 @@
   <link rel="stylesheet" type="text/css" href="style.css"
 </head>
 <body>
-body {
+body{
   max-width: 800px;
   font-family: 'Be Vietnam', sans-serif;
   margin-bottom: 20px;
   margin-top: 20px;
   text-align: center;
 }
-header {
+header{
 font-family: 'Varela Round', sans-serif;
 }
 .center-top-content{
@@ -23,7 +23,7 @@ font-family: 'Varela Round', sans-serif;
   border-bottom: 2px;
   color: black;
 }
-h1 {
+h1{
   color: #33485E
 (51,72,94);
   font-size: 36px;
