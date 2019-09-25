@@ -43,6 +43,10 @@ h1{
   margin-bottom: 0;
 }
 
+.nav-links{
+  display: inline-block;
+}
+
 p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
