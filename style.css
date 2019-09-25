@@ -63,6 +63,15 @@ h1{
   margin-0 auto;
 }
 
+.introduction{
+  line-height: 1.5;
+}
+
+.introduction img{
+  width: 40%
+  float:right;
+}
+
 p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
