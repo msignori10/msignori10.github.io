@@ -58,6 +58,11 @@ h1{
   margin: 0.5em;
 }
 
+.main-content{
+  width: 80%;
+  margin-0 auto;
+}
+
 p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
@@ -71,9 +76,7 @@ p.highlight-this{
   display: inline-block;
   padding:8px;
 }
-.main-content{
-  width: 80%;
-  text-align: center;
+
 }
 img{
   float: right;
