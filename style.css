@@ -1,16 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="style.css"
   <title> Melissa Signorini</title>
+  <link rel="stylesheet" type="text/css" href="style.css"
 </head>
-h1 {
-  color: #33485E
-(51,72,94);
-  font-size: 36px;
-  text-transform: uppercase;
-  letter-spacing: 0.8em;
-}
+<body>
 body {
   max-width: 800px;
   font-family: 'Be Vietnam', sans-serif;
@@ -29,9 +23,29 @@ font-family: 'Varela Round', sans-serif;
   border-bottom: 2px;
   color: black;
 }
+h1 {
+  color: #33485E
+(51,72,94);
+  font-size: 36px;
+  text-transform: uppercase;
+  letter-spacing: 0.8em;
+}
 p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+{
+  font-family: 'Varela Round', sans-serif;
+  text-align: left;
+}
+.h_line{
+  width: 80%;
 }
 .nav{
   padding: 0;
@@ -47,19 +61,7 @@ p.highlight-this{
   display: inline-block;
   padding:8px;
 }
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Varela Round', sans-serif;
-  text-align: left;
-}
-.h_line{
-  width: 80%;
-}
+
 .personal title{
   text-align: center;
   font-style: italic;
