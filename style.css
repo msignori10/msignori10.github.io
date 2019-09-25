@@ -97,27 +97,15 @@ span.highlight {
   color: black;
   font-weight: bold;
 }
-.container-experience h2, .container-experience h3, .container-experience h4,.container-experience h5{
+.container-experience h2, .container-experience h3, .container-experience h4, .container-experience h5{
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
-.h_line{
-  width: 80%;
+.container-experience p{
+  font-size: 14px;
 }
 
-.nav a{
-  display: inline-block;
-  padding:8px;
-
-img{
-  float: right;
-  max-width: 33%;
-}
-
-.intro{
-  line-height: 3.0%;
-}
 .highlight-this{
   background-color: #33485e
   padding-bottom: 3px;
