@@ -65,11 +65,15 @@ h1{
 
 .introduction{
   line-height: 1.5;
+  overflow: auto;
 }
 
 .introduction img{
   width: 40%
   float:right;
+  margin-left: 20px;
+  margin-top: 16px;
+  margin-bottom: 20px;
 }
 
 p.highlight-this{
@@ -84,13 +88,12 @@ p.highlight-this{
 .nav a{
   display: inline-block;
   padding:8px;
-}
 
-}
 img{
   float: right;
   max-width: 33%;
 }
+
 .intro{
   line-height: 3.0%;
 }
