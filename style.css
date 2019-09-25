@@ -76,9 +76,18 @@ h1{
   margin-bottom: 20px;
 }
 
-p.highlight-this{
-  word-wrap: normal;
-  font-size: 20px;
+span.highlight {
+  background-color: #33485E
+  padding: 3px 5px;
+  color: white;
+  font-weight: bold;
+}
+
+h2{
+  color: white;
+  padding:5px;
+  background-color:#33485e;
+  text-align:left;
 }
 
 .h_line{
@@ -103,12 +112,7 @@ img{
   padding-top:3px;
   padding-left: 5px;
 }
-h2{
-  color: white;
-  padding:5px;
-  background-color:#33485e;
-  text-align:left;
-}
+
 h3{
   font-weight: normal;
 }
