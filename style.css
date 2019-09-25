@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="style.css"
+  <title> Melissa Signorini</title>
+</head>
 h1 {
   color: #33485E
 (51,72,94);
@@ -6,8 +12,14 @@ h1 {
 body {
   max-width: 800px;
   font-family: 'Be Vietnam', sans-serif;
-
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-align: center;
 }
 header {
 font-family: 'Varela Round', sans-serif;
+}
+.center-top-content{
+  text-align: center;
+  border-bottom: 2px;
 }
