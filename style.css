@@ -30,6 +30,11 @@ body{
   font-style: italic;
 }
 
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Varela Round', sans-serif;
+  text-align: left;
+}
+
 h1{
   color: #33485E
 (51,72,94);
@@ -42,16 +47,7 @@ p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
 }
-p,
-h1,
-h2,
-h3,
-h4,
-h5,
-{
-  font-family: 'Varela Round', sans-serif;
-  text-align: left;
-}
+
 .h_line{
   width: 80%;
 }
