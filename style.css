@@ -13,12 +13,11 @@ body{
 }
 
 .center-top-content{
+  margin: 0 auto;
+  max-width: 400px;
   text-align: center;
-  border-bottom: 2px;
-  color: #33485E
+  border-bottom: : 2px solid black;
   text-transform:uppercase;
-  border-bottom: 2px;
-  color: black;
 }
 
 .personal-title{
