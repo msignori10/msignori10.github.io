@@ -5,13 +5,13 @@
   <link rel="stylesheet" type="text/css" href="style.css"
 </head>
 <body>
+
 body{
   max-width: 800px;
+  margin: 0 auto;
   font-family: 'Be Vietnam',sans-serif;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  text-align: center;
 }
+
 .center-top-content{
   text-align: center;
   border-bottom: 2px;
@@ -20,6 +20,7 @@ body{
   border-bottom: 2px;
   color: black;
 }
+
 h1{
   color: #33485E
 (51,72,94);
@@ -27,6 +28,7 @@ h1{
   text-transform: uppercase;
   letter-spacing: 0.8em;
 }
+
 p.highlight-this{
   word-wrap: normal;
   font-size: 20px;
