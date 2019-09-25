@@ -3,3 +3,11 @@ h1 {
 (51,72,94);
   font-size: 36px;
 }
+body {
+  max-width: 800px;
+  font-family: 'Be Vietnam', sans-serif;
+
+}
+header {
+font-family: 'Varela Round', sans-serif;
+}
