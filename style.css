@@ -44,11 +44,12 @@ h2{
 }
 
 h4,h5{
-  font-weight: 400;
+  font-weight: 400
 }
 
 h5{
   font-style: italic;
+  line-height: .5%
 }
 
 .nav-links{
@@ -74,7 +75,7 @@ h5{
 
 .introduction{
   line-height: 1.8;
-  overflow:auto;
+  overflow:auto
 }
 
 .introduction img{
