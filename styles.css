@@ -2,6 +2,7 @@ body{
   max-width: 800px;
   text-align: center;
   margin: auto;
+  background-color: lightblue;
 }
 
 .jumbotron{
@@ -13,12 +14,53 @@ body{
   float: right;
   background-color: white;
 }
+h1{
+  background-color: lightblue;
+  font-family: 'Lobster', cursive;
+}
 h3{
+  font-size: 20px;
   text-align: left;
+  font-family: 'Poppins', sans-serif;
+  color: white;
 }
 
 h2{
   text-align: left;
   font-weight: normal;
   font-family: 'Poppins', sans-serif;
+  font-size: 24px;
+  color: white;
 }
+
+col-md-6{
+  align-items: left;
+  padding-left;
+  font-size: 20px;
+  color: white;
+  line-height: 60px;
+}
+
+.highlight{
+  color: black;
+}
+
+.personal-title{
+  background-color: lightblue;
+  font-family: 'Poppins', sans-serif;
+}
+
+hr{
+  line-height: 60px;
+}
+
+.work-1{
+  padding-left: 10px;
+  padding-top:40px;
+}
+
+.work-2{
+  padding-left: 10px;
+  padding-top:100px;
+
+.work-3[
