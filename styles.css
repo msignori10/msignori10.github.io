@@ -2,42 +2,51 @@ body{
   max-width: 800px;
   text-align: center;
   margin: auto;
-  background-color: lightblue;
+  background-color: white;
 }
 
 .jumbotron{
-  padding: 0;
   background-color: white;
 }
 
 .navbar{
-  float: right;
-  background-color: white;
+  float: center;
+  background-color: black;
 }
+
 h1{
-  background-color: lightblue;
+  background-color: white;
   font-family: 'Lobster', cursive;
 }
 h3{
   font-size: 20px;
   text-align: left;
   font-family: 'Poppins', sans-serif;
-  color: white;
+  color: black;
 }
 
+hr{
+  display: block;
+  margin-top: 0.5cm;
+  margin-bottom: 0.5cm;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+}
 h2{
   text-align: left;
   font-weight: normal;
   font-family: 'Poppins', sans-serif;
   font-size: 24px;
-  color: white;
+  color: black;
 }
 
 col-md-6{
   align-items: left;
   padding-left;
   font-size: 20px;
-  color: white;
+  color: black;
   line-height: 60px;
 }
 
@@ -46,21 +55,10 @@ col-md-6{
 }
 
 .personal-title{
-  background-color: lightblue;
+  background-color: white;
   font-family: 'Poppins', sans-serif;
 }
 
-hr{
-  line-height: 60px;
-}
 
-.work-1{
-  padding-left: 10px;
-  padding-top:40px;
-}
-
-.work-2{
-  padding-left: 10px;
-  padding-top:100px;
-
-.work-3[
+.nav-links{
+  list-style: none;
