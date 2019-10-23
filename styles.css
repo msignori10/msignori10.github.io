@@ -40,11 +40,12 @@ h2{
   font-family: 'Poppins', sans-serif;
   font-size: 24px;
   color: black;
+  padding: none;
 }
 
 col-md-6{
   align-items: left;
-  padding-left;
+  padding-left;1px;
   font-size: 20px;
   color: black;
   line-height: 60px;
@@ -62,3 +63,14 @@ col-md-6{
 
 .nav-links{
   list-style: none;
+  font-size: 12px;
+  color: pink;
+  padding-top: 70px;
+  align-items: center;
+
+
+col-md-2{
+  padding-top: 20px;
+  padding-left: 10px;
+  font-size: 24px;
+}
