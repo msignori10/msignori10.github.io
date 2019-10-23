@@ -16,3 +16,9 @@ body{
 h3{
   text-align: left;
 }
+
+h2{
+  text-align: left;
+  font-weight: normal;
+  font-family: 'Poppins', sans-serif;
+}
