@@ -41,8 +41,27 @@ h4{
   font-style: italic;
   text-align: center;
   font-family: Poppins, sans-serif;
+  margin-top: -38px;
 
 }
+h5{
+  text-align: center;
+  padding-left: 260px;
+  padding-top: 50px;
+  font-style: normal;
+  font-size: 20px;
+  text-decoration: underline;
+  padding-bottom: 10px;
+
+}
+
+h6{
+  text-align: center;
+  padding-left: 260px;
+  border-bottom: 10px;
+
+}
+
 
 #skills{
   text-align: center;
@@ -50,16 +69,15 @@ h4{
   font-size: 50px;
   padding: 40px;
   margin: 0 auto;
+  margin-top: -60px;
 }
+
 hr{
-  display: block;
+  display: grid;
   color: black;
   margin-top: 0.5cm;
-  margin-bottom: 0.5cm;
-  margin-left: auto;
-  margin-right: auto;
   border-style: inset;
-  border-width: 5px;
+  border-width: 1px;
 }
 
 
@@ -71,6 +89,7 @@ hr{
   padding-bottom: 30px;
   text-align: justify;
   padding-left: 30px;
+  margin-top: -38px;
 }
 
 .description{
@@ -108,7 +127,8 @@ hr{
 }
 
 .p{
-  align-content: right;
+  align-content: center;
+  padding-left: 260px;
 }
 
 .col-md-8{
@@ -116,11 +136,12 @@ hr{
   line-height: inherit;
 }
 
-#school{
+.School{
   text-align: center;
-  border-top: 20px;
-  border-color: white;
-  border-style: dotted;
   font-family: Poppins, sans-serif;
-  padding-bottom: 30px;
+  padding-bottom: 0;
+  font-size: 20px;
+  border-bottom: dotted;
+  border-top: dotted;
+  margin-top: 10px;
 }
